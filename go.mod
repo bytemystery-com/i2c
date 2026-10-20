@@ -1,4 +1,4 @@
-module bytemystery-com/i2c
+module github.com/bytemystery-com/i2c
 
 go 1.27.2
 
